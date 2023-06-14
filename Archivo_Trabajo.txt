@@ -1,0 +1,15 @@
+<script_reporte_1>
+	Obtener datos de origen : BD / EXCEL / TXT.
+	Realizar limpieza de datos
+	Registrar datos limpios en BD ORACLE
+	Total de ventas de electrodomésticos en el último año
+	Aplicar Filtro: Segmentación de productos
+	Aplicar Filtro: Cantidad de productos vendidos por mes
+	Aplicar Filtro: Cantidad de productos vendidos por categorías
+	Total de nuevos clientes durante el último año
+	Aplicar Filtro: Cantidad de ventas por clientes
+	Total de ingresos en el último año
+	Aplicar Filtro: Productos más vendidos 
+	Aplicar Filtro: Productos menos vendidos
+	Cantidad de productos en stock
+<script_reporte_1>
